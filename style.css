@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    height: 100%;
+}
+
+.objetivo{
+    width: 210px;
+}
+
+.pequeno{
+    width: 80px;
+}
+
+.medio{
+width: 200px;
+}
+
+.small{
+    font-size: small;
+}
+/* .modalCadastro{
+    width: 300px;
+} */
